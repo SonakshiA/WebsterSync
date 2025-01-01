@@ -1,6 +1,6 @@
 const proxy = 'https://api.allorigins.win/raw?url=';  // Use All Origins
-const SUPABASE_URL = 'https://whmgvclpatwhwcyygdbd.supabase.co'; /* Paste the Supabase Project URL here */
-const SUPABASE_API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6IndobWd2Y2xwYXR3aHdjeXlnZGJkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzU3MTA5NTIsImV4cCI6MjA1MTI4Njk1Mn0.dJyoXAs7KbsIGNxwQJKtSTIhSszbPEl0BxKOrAtdLX8'; /* Paste the API Key for Supabase Database' */
+const SUPABASE_URL = ''; /* Paste the Supabase Project URL here */
+const SUPABASE_API_KEY = ''; /* Paste the API Key for Supabase Database' */
 
 
 document.getElementById('loader').style.display = 'none';
