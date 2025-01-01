@@ -1,0 +1,5 @@
+CREATE TABLE words (
+  id serial PRIMARY KEY,
+  word text NOT NULL,
+  meaning text[] NOT NULL
+);

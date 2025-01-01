@@ -1,0 +1,19 @@
+{
+    "manifest_version":3,
+    "name": "Word meanings",
+    "version":"1.0.0",
+    "description":"This is an extension to save word meanings.",
+    "author":"Sonakshi Arora",
+    "permissions": [
+        "activeTab",
+        "tabs",
+        "storage"
+    ],
+    "host_permissions":[
+        "https://whmgvclpatwhwcyygdbd.supabase.co/*"
+
+    ],
+    "action":{
+        "default_popup":"index.html"
+    }
+}
