@@ -33,3 +33,10 @@ git clone https://github.com/SonakshiA/webstersync.git
 10. The word and its meaning will be stored in your Supabase database.
 
 11. You can access the stored words from the Table Editor section in Supabase. The 'words' table is present there.
+
+## Working Demo
+
+
+https://github.com/user-attachments/assets/f8a2ac8e-e953-4786-9766-20439849f8fb
+
+
